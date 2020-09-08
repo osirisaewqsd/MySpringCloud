@@ -1,5 +1,5 @@
 ﻿datasource:  #mysql数据库和连接池
    username: root
-   password: 101649
+   password: 101648
    url: jdbc:mysql://localhost:3306/lyh
    driver-class-name: com.mysql.cj.jdbc.Driver
